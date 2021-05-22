@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679885766834",
+    "project_id": "onlinelaundary",
+    "storage_bucket": "onlinelaundary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679885766834:android:32b5a3b8f02c968a0009ab",
+        "android_client_info": {
+          "package_name": "com.example.online_laundary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679885766834-1b59pdtnguc8v9kajkvcono0g71q5h3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSRVGmO_JGRsgS_eId_oaqf5nGzMprgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679885766834-1b59pdtnguc8v9kajkvcono0g71q5h3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
